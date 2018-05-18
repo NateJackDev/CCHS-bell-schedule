@@ -1,0 +1,192 @@
+{
+  "info": {
+    "name": "Calvary Chapel High School"
+  },
+  "regular": {
+    "Period 1": {
+      "begin": {
+        "hour": 8,
+        "min": 0
+      },
+      "end": {
+        "hour": 8,
+        "min": 48
+      }
+    },
+    "Period 2": {
+      "begin": {
+        "hour": 8,
+        "min": 53
+      },
+      "end": {
+        "hour": 9,
+        "min": 41
+      }
+    },
+    "Break": {
+      "begin": {
+        "hour": 9,
+        "min": 41
+      },
+      "end": {
+        "hour": 9,
+        "min": 55
+      }
+    },
+    "Period 3": {
+      "begin": {
+        "hour": 10,
+        "min": 0
+      },
+      "end": {
+        "hour": 10,
+        "min": 48
+      }
+    },
+    "Period 4": {
+      "begin": {
+        "hour": 10,
+        "min": 53
+      },
+      "end": {
+        "hour": 11,
+        "min": 41
+      }
+    },
+    "Period 5": {
+      "begin": {
+        "hour": 11,
+        "min": 46
+      },
+      "end": {
+        "hour": 12,
+        "min": 34
+      }
+    },
+    "Lunch": {
+      "begin": {
+        "hour": 12,
+        "min": 34
+      },
+      "end": {
+        "hour": 13,
+        "min": 9
+      }
+    },
+    "Period 6": {
+      "begin": {
+        "hour": 13,
+        "min": 14
+      },
+      "end": {
+        "hour": 14,
+        "min": 2
+      }
+    },
+    "Period 7": {
+      "begin": {
+        "hour": 14,
+        "min": 7
+      },
+      "end": {
+        "hour": 14,
+        "min": 55
+      }
+    }
+  },
+  "chapel_pep": {
+    "Period 1": {
+      "begin": {
+        "hour": 8,
+        "min": 0
+      },
+      "end": {
+        "hour": 8,
+        "min": 40
+      }
+    },
+    "Chapel": {
+      "begin": {
+        "hour": 8,
+        "min": 50
+      },
+      "end": {
+        "hour": 9,
+        "min": 30
+      }
+    },
+    "Break": {
+
+    },
+    "Period 2":{
+      "begin": {
+        "hour": 9,
+        "min": 55
+      },
+      "end": {
+        "hour": 10,
+        "min": 35
+      }
+    },
+    "Period 3": {
+      "begin": {
+        "hour": 10,
+        "min": 40
+      },
+      "end": {
+        "hour": 11,
+        "min": 20
+      }
+    },
+    "Period 4": {
+      "begin": {
+        "hour": 11,
+        "min": 25
+      },
+      "end": {
+        "hour": 12,
+        "min": 5
+      }
+    },
+    "Period 5": {
+      "begin": {
+        "hour": 12,
+        "min": 10
+      },
+      "end": {
+        "hour": 12,
+        "min": 50
+      }
+    },
+    "Lunch": {
+      "begin": {
+        "hour": 12,
+        "min": 50
+      },
+      "end": {
+        "hour": 13,
+        "min": 25
+      }
+    },
+    "Period 6": {
+      "begin": {
+        "hour": 13,
+        "min": 30
+      },
+      "end": {
+        "hour": 14,
+        "min": 10
+      }
+    },
+    "Period 7": {
+      "begin": {
+        "hour": 14,
+        "min": 15
+      },
+      "end": {
+        "hour": 14,
+        "min": 55
+      }
+    }
+  }
+}

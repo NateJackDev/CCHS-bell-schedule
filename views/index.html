@@ -1,0 +1,50 @@
+<!-- This is a static file -->
+<!-- served from your routes in server.js -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Everyone needs a Title -->
+    <title>School Schedule</title>
+    <!-- Just a little description -->
+    <meta name="description" content="When's my next period">
+    <!-- The little image up in the tab left corner -->
+    <link id="favicon" rel="icon" href="https://glitch.com/edit/favicon-app.ico" type="image/x-icon">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Grabs my personal style sheet -->
+    <link rel="stylesheet" href="/style.css">
+    <!-- Come and get your bootstrap(twitter) -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Fredoka+One" rel="stylesheet"> 
+  </head>
+  <body>
+  <div class="jumbotron jumbotron-fluid p-4">
+    <div class="container">
+      <center><h1 class="display-4"><span class="school_name"></span> Schedule</h1></center>
+    </div>
+  </div>
+    <div class="row time-top">
+      <div class="col-12" align="center"><span class="time"></span></div>
+    </div>
+    <hr>
+    <div class="per-out">
+    </div>
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"
+            integrity="sha256-gvQgAFzTH6trSrAWoH1iPo9Xc96QxSZ3feW6kem+O00="
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.1/moment.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+            integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+            crossorigin="anonymous"></script>
+    <script src="/client.js"></script>
+  </body>
+  <footer>
+    <div class="row time-top">
+      <div class="col-12 copyright" align="center"><a href="https://natejackdev.github.io/">Nathan Jackson</a> Class of 2018</div>
+    </div>
+  </footer>
+</html>

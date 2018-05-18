@@ -1,0 +1,31 @@
+/* styles */
+/* called by your view template */
+
+/* No Bottom margin cause it makes it look funny */
+.jumbotron {
+  margin-bottom: 0rem !important;
+}
+
+/* Does this werid thing where it adds to the right */
+.row {
+  margin-right: 0 !important;
+  margin-left: 0 !important
+}
+
+/* Go big or go home */
+.per {
+  font-size: 25px;
+}
+
+/* Custom Hand-Work */
+.time-top {
+  margin-top: 1rem;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.copyright {
+	font-size: 14px;
+	font-family: 'Fredoka One', cursive;
+	margin-bottom: 10px;
+}
