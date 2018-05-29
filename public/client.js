@@ -248,7 +248,5 @@ $(document).ready(function() { // When the DOM loads, Then the JS
       // Updating every second
       setTimeout(interval,1000);
     })();
-
-
   });
 });

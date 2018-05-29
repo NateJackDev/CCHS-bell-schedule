@@ -1,6 +1,17 @@
 {
   "info": {
-    "name": "Calvary Chapel High School"
+    "name": "Calvary Chapel High School",
+    "pep_days": [
+      "05-24-2018"
+    ],
+    "days_off": [
+      "05-28-2018"
+    ],
+    "breaks": {
+      "winter": [],
+      "sping": [],
+      "summer": []
+    }
   },
   "regular": {
     "Period 1": {
@@ -116,7 +127,14 @@
       }
     },
     "Break": {
-
+      "begin": {
+        "hour": 9,
+        "min": 30
+      },
+      "end": {
+        "hour": 9,
+        "min": 50
+      }
     },
     "Period 2":{
       "begin": {
